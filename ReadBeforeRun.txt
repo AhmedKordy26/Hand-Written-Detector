@@ -1,2 +1,2 @@
-please download the dataset required for the mode :
+please download the dataset required for the model and put it in this file :
 https://www.kaggle.com/oddrationale/mnist-in-csv
