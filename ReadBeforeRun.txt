@@ -1,0 +1,2 @@
+please download the dataset required for the mode :
+https://www.kaggle.com/oddrationale/mnist-in-csv
